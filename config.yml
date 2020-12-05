@@ -1,8 +1,8 @@
-title: Test respository
+title: Testrepo
 description: Test test
 template:
-  repo: test-respository-template
-  name: test-respository
+  repo: testrespo-template
+  name: testrepo
 before:
   - type: createIssue
     title: Welcome!
